@@ -85,27 +85,7 @@ A consulta produz os seguintes indicadores:
 - Total de e-mails enviados por país.
 - Ranking dos países com maior número de contas.
 - Ranking dos países com maior quantidade de e-mails enviados.
-
----
-
-# 📁 Estrutura do Repositório
-
-```text
-Email-Campaign-Analysis
-│
-├── data
-│   └── email_campaign_metrics.csv
-│
-├── images
-│   └── query_result.png
-│
-├── sql
-│   └── email_campaign_analysis.sql
-│
-└── README.md
-```
-
----
+- 
 
 # 🚀 Habilidades Demonstradas
 
