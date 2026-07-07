@@ -1,8 +1,8 @@
-# 📧 Email Campaign Performance Analysis
+# Email Campaign Performance Analysis
 
 Análise desenvolvida utilizando Google BigQuery para consolidar métricas de campanhas de e-mail, combinando informações de contas, envios, aberturas e visitas. O projeto utiliza SQL avançado para transformar dados brutos em indicadores de desempenho por país.
 
-# 📌 Sobre o Projeto
+# Sobre o Projeto
 
 O objetivo do projeto é consolidar informações provenientes de diferentes tabelas relacionais para gerar métricas capazes de avaliar o desempenho de campanhas de e-mail.
 
@@ -10,7 +10,7 @@ Os dados originais continham informações distribuídas entre diversas tabelas,
 
 Ao final da consulta é possível identificar, para cada país, indicadores como quantidade de contas, quantidade de e-mails enviados, abertos e visitados, além de rankings baseados nesses indicadores.
 
-# 🎯 Objetivos
+# Objetivos
 
 1. Consolidar informações provenientes de múltiplas tabelas relacionais.
 
@@ -22,7 +22,7 @@ Ao final da consulta é possível identificar, para cada país, indicadores como
 
 ---
 
-# 📂 Fonte dos Dados
+# Fonte dos Dados
 
 **Origem:**
 
@@ -34,7 +34,7 @@ Os dados utilizados neste projeto não podem ser disponibilizados publicamente. 
 
 ---
 
-# 🛠 Ferramentas Utilizadas
+# Ferramentas Utilizadas
 
 - Google BigQuery
 - SQL
@@ -43,7 +43,7 @@ Os dados utilizados neste projeto não podem ser disponibilizados publicamente. 
 
 ---
 
-# 📑 Consulta SQL Desenvolvida
+# Consulta SQL Desenvolvida
 
 ## Objetivo
 
@@ -73,7 +73,7 @@ Ao final da consulta são retornados apenas os dez países com maior quantidade 
 
 ---
 
-# 💡 Principais Métricas
+# Principais Métricas
 
 A consulta produz os seguintes indicadores:
 
@@ -87,7 +87,7 @@ A consulta produz os seguintes indicadores:
 - Ranking dos países com maior quantidade de e-mails enviados.
 - 
 
-# 🚀 Habilidades Demonstradas
+# Habilidades Demonstradas
 
 - SQL
 - Google BigQuery
@@ -104,7 +104,7 @@ A consulta produz os seguintes indicadores:
 
 ---
 
-- # 👨‍💻 Autor
+- # Autor
 
 Lailson de Menezes
 
